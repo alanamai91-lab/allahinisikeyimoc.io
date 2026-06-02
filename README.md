@@ -1,1 +1,1 @@
-# allahinisikeyimoc.io
+# allahinisikeyim.io
